@@ -1,0 +1,15 @@
+
+/* Global Settings */
+.cursor, .dot { 
+    display: none !important;
+}
+
+/* Header Navbar Menu */
+.nav-menu__item.activePage > a {
+    color: #fff !important;
+}
+
+/* Hero Slider */
+.flip-and-translate {
+    transform: scaleX(-1) translate3d(-251.826px, 0px, 0px);
+}
